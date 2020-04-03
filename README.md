@@ -4,13 +4,7 @@
 npm
 
 ```
-$ npm install vue-input-only-number
-```
-
-yarn
-
-```
-$ yarn add vue-input-only-number
+$ npm install vue-input-only-number-ie
 ```
 
 intだけ入力できるようにする

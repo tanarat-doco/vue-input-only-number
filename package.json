@@ -1,6 +1,6 @@
 {
-  "name": "vue-input-only-number",
-  "version": "1.1.0",
+  "name": "vue-input-only-number-ie",
+  "version": "1.1.2",
   "main": "src/index.js",
   "description": "Vue 2.x input only number directive.",
   "repository": {
@@ -25,5 +25,9 @@
   },
   "peerDependencies": {
     "vue": "~2"
+  },
+  "homepage": "https://github.com/k-okina/vue-input-only-number#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
