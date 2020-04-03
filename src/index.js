@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 const onlyInt = {
-  install(Vue, options) {
+  install: function (Vue, options) {
     const directiveName = options && typeof options === 'object' && 'name' in options ?
       options.name : 'int';
 

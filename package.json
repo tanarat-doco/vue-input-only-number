@@ -1,16 +1,16 @@
 {
   "name": "vue-input-only-number-ie",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "main": "src/index.js",
   "description": "Vue 2.x input only number directive.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/k-okina/vue-input-only-number.git"
+    "url": "git+https://github.com/tanarat-doco/vue-input-only-number-ie.git"
   },
-  "author": "Kahiro Okina <okinakahiro@gmail.com>",
+  "author": "Tanarat <nut.exe@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/k-okina/vue-input-only-number/issues"
+    "url": "https://github.com/tanarat-doco/vue-input-only-number-ie/issues"
   },
   "keywords": [
     "vue",
@@ -26,7 +26,7 @@
   "peerDependencies": {
     "vue": "~2"
   },
-  "homepage": "https://github.com/k-okina/vue-input-only-number#readme",
+  "homepage": "https://github.com/tanarat-doco/vue-input-only-number-ie#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }

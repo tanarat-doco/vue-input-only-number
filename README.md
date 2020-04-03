@@ -1,4 +1,4 @@
-# vue-input-only-number
+# vue-input-only-number-ie | vue-input-only-number with IE supported
 
 ## インストール方法
 npm
