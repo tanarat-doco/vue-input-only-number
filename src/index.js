@@ -6,7 +6,7 @@ const onlyInt = {
 
     Vue.directive(directiveName, {
       inserted: function(el) {
-        el.oninput = function(event) => {
+        el.oninput = function(event) {
           const formattedValue = parseInt(event.target.value, 10);
           el.value = isNaN(formattedValue) ? '' : formattedValue;
         };
